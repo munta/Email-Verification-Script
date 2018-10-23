@@ -1,4 +1,4 @@
-Python-Email-Verification-Script
+# Python-Email-Verification-Script
 
 Script for email address verification testing at syntax, DNS and mailbox verification
 
